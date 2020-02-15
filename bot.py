@@ -6,7 +6,7 @@ import json
 import os
 
 TOKEN = os.getenv("TOKEN")
-#uijkl
+#Comentario
 bot = telebot.TeleBot(TOKEN)
 
 
